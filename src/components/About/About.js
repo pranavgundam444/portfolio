@@ -26,7 +26,7 @@ function About() {
       <div>
         <h2><strong>This is it. ;)</strong></h2>
         <p>
-          Anish Kr. Sinha is an Indian UI/UX Designer & Front End Developer with a passion for designing beautiful and functional user experiences.
+          Pranav is an Indian UI/UX Designer & Front End Developer with a passion for designing beautiful and functional user experiences.
           Typically, he’s Driven & permanently Curious. He’s obsessed with designing things and even more obsessed with designing cool & clean stuff
           for the web and mobile. He has been in the business of creating since he hung his first painting on the wall when he was 11. He holds a
           bachelor degree in Computer Applications. During his graduation, he has been actively involved in the web design community for the last 3
