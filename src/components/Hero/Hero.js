@@ -23,7 +23,7 @@ function Hero() {
       <div className='cont'>
         <div className="text">
           <h1 className="greeting">Hello! </h1>
-          <h1 className='head'>I’m <span className="highlight">Anish 👋</span></h1>
+          <h1 className='head'>I’m <span className="highlight">Pranav 👋</span></h1>
           <p className='para'>UI/UX Designer, Front-End Developer & Thinker. Based in India.</p>
           <div className='d-flex '>
             <div className='lists' >
