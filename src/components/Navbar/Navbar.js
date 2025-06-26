@@ -13,7 +13,7 @@ function Navbar() {
 
   return (
     <nav className="navbar">
-      <div className="logo">Anish Kumar Sinha</div>
+      <div className="logo">Pranav Gundam</div>
       <ul className="nav-links">
         <Link to='/' className='nav-link'>
           Home
